@@ -1,1 +1,10 @@
+The Final data for analysis is stored in 3 folders.
+The folder "Final_2" contains the main 1973 survey data. "Final_3" contains the same data but for migrants classified at household level. "Final" contains all remaining data.
 
+Below is a brief detail of the datasets in the "Final" folder:
+  (a) "birthplace" contains the information on region of birth from 1931 (British India) and 1951 (India & Pakistan) census
+  (b) "pak_literacy_1951" contains district-level data on literacy of migrants and natives, in Pakistan, in 1951 (Census data)
+  (c) "pop_prop_maps" is the dataset used to create FIgure 1 and Figure A1 in the paper
+  (d) "pak_1973_temp_placebo" contains the same data as in "Final_2" or "Final_3" but includes placebo migrants instead of actual migrants ("placebo" as defined in the paper").
+  (e) "ind_census_1951_1931" & "pak_census_1951_1931" contain information on district level religious distribution from 1931 (British India) and 1951 (India & Pakistan) census
+  (f) All the datasets starting with "pak_labforce_1951_..." contain information for migrants and natives, in Pakistan, on occupational sector (i.e. Agricultural or Non-Agricultural).
